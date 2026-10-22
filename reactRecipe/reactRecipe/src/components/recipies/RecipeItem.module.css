@@ -1,0 +1,26 @@
+.article {
+    height: 100%;
+    position: relative;
+    margin-top: 3rem;
+}
+
+.image {
+    object-fit: cover;
+    width: 20%;
+    height: 20%;
+}
+
+.header {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 200%;
+    color: #8B6A40;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 1.5%;
+    right: 0;
+    height: fit-content;
+    margin: auto;
+    user-select: none;
+}

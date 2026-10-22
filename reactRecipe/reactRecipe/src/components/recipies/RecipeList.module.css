@@ -1,0 +1,14 @@
+.table{
+    display: grid;
+    row-gap: 20px;
+    column-gap: 2%;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.header{
+    color: #8B6a40;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    text-align: center;
+    margin-top: 20rem;
+}

@@ -1,0 +1,8 @@
+.table{
+    /*columns : 2;*/
+    display: grid;
+    row-gap: 20px;
+    column-gap: 2%;
+    grid-template-columns: repeat(2, 1fr);
+    /*grid-template-rows: 100px 100px;*/
+}

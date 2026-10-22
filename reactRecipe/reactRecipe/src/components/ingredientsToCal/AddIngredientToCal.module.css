@@ -1,0 +1,41 @@
+.section{
+    width: 100%;
+    height: 100%;
+    background-color: #FFF7ED;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    color: #8B6A40;
+}
+
+.button{
+    margin-left: 1rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding: 6px 14px;
+    border-radius: 6px;
+    border: none;
+    background: #B99568;
+    background-origin: border-box;
+    box-shadow: 0px 0.5px 1.5px rgba(54, 122, 246, 0.25), inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-bottom: 1rem;
+}
+
+.input{
+    background: #FFF7ED;
+    border-color: #B99568;
+    font-family: "Montserrat", sans-serif;
+}
+
+.ingredientDiv{
+    margin-bottom: 2rem;
+}
+
+.select{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    background: #B99568;
+}
